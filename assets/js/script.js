@@ -145,7 +145,7 @@ if (form) {
 
     const formData = new FormData(form);
 
-    fetch("https://formsubmit.co/ajax/rameshguntamukkala99@gmail.com", {
+    fetch("https://formsubmit.co/ajax/3N4154K5s6UPnXtn5nZryXxLrfW4RZw5pu", {
       method: "POST",
       body: formData
     })
